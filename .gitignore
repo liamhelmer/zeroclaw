@@ -5,3 +5,6 @@ firmware/*/target
 .DS_Store
 .wt-pr37/
 .env
+
+# Agent fork-join session files (auto-added)
+.fork-join/
